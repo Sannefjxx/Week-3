@@ -48,9 +48,7 @@ int main(void) {
 		}
 		break;
 	}
-	if (n >= 6) {
-		printf("I said a number between 1 and 5!");
-	}
+	
 
 
 }
